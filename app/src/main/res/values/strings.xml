@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Android-IM</string>
+    <string name="about">
+        仿QQ实现的AndroidIM工具
+    </string>
+</resources>
